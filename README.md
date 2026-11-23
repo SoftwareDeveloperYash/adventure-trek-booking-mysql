@@ -88,4 +88,5 @@ Warning: the script starts with `DROP DATABASE IF EXISTS Yashwanth_TrekDB`. Do n
 - International routes by relaxing the Country check
 
 ## Author
+
 Yashwanth Bhukya
